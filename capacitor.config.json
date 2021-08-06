@@ -1,0 +1,6 @@
+{
+  "appId": "eu.evidenceledger.verifier",
+  "appName": "PrivacyVerifier",
+  "webDir": "docs",
+  "bundledWebRuntime": false
+}

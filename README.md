@@ -1,4 +1,3 @@
-# GreenCreds
+# EvidenceLedgerVerifier
 
-https://hesusruiz.github.io/GreenCreds/
 

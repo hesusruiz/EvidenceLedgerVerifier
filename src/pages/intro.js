@@ -93,7 +93,7 @@ export class Intro extends AbstractPage {
                     </a>
                 </div>
                 <div>
-                    <p style="font-weight:600">*This website does not use cookies</p>
+                    <p style="font-weight:600">*${T("This website does not use cookies")}</p>
                 </div>
                 <div>
                     <p class="fore-primary">Evidence Ledger 2021</p>

@@ -2201,6 +2201,9 @@ var Terms___Conditions = {
   de: "Allgemeine Gesch\xE4ftsbedingungen",
   it: "Condizioni d'uso"
 };
+var This_website_does_not_use_cookies = {
+  es: "Este sitio web no usa cookies"
+};
 var Language = {
   es: "Idioma",
   ca: "Llengua",
@@ -2420,6 +2423,7 @@ var translations_default = {
   "Verify another": Verify_another,
   "Privacy policy": Privacy_policy,
   "Terms & Conditions": Terms___Conditions,
+  "This website does not use cookies": This_website_does_not_use_cookies,
   Language,
   "Update public keys": Update_public_keys,
   "Easy & Secure": Easy___Secure,
@@ -36239,7 +36243,7 @@ var Intro = class extends AbstractPage {
                     </a>
                 </div>
                 <div>
-                    <p style="font-weight:600">*This website does not use cookies</p>
+                    <p style="font-weight:600">*${T("This website does not use cookies")}</p>
                 </div>
                 <div>
                     <p class="fore-primary">Evidence Ledger 2021</p>

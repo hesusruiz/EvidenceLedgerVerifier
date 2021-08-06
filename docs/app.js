@@ -36175,7 +36175,7 @@ var Intro = class extends AbstractPage {
     let theHtml = html`
 
             <div class="sect-white">
-                <h2 class="w3-margin-bottom">${T("EU Digital COVID Credential Verifier")}</h2>
+                <h2 class="w3-margin-bottom" style="word-break:break-word">${T("EU Digital COVID Credential Verifier")}</h2>
                 <p>${T("$intro01")}</p>
 
                 <div class="w3-padding-16 w3-center">

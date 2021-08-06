@@ -2170,7 +2170,7 @@ var EU_Digital_COVID_Credential_Verifier = {
   es: "Verificador de Credenciales COVID",
   ca: "Verificador de Credencials COVID",
   fr: "Outil de v\xE9rification num\xE9rique des justificatifs COVID de l'UE",
-  de: "EU Digital COVID Credential Verifier",
+  de: "Digitale COVID-Anmeldeinformations\xFCberpr\xFCfung in der EU",
   it: "Strumento di verifica del certificato digitale COVID UE"
 };
 var Start_verifying = {

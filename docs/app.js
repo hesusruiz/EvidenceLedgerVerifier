@@ -9585,8 +9585,11 @@ var DisplayHcert = class extends AbstractPage {
                 
                     <div class="subsection">
                 
-                        <div class="etiqueta mt-3">${T("Test Name")}</div>
+                        <div class="etiqueta mt-3">${T("Type of test")}</div>
                         <div class="valor mb-3">${payload.typeTest}</div>
+
+                        <div class="etiqueta mt-3">${T("Test Name")}</div>
+                        <div class="valor mb-3">${payload.testName}</div>
 
                         <div class="etiqueta mt-3">${T("Test Result")}</div>
                         <div class="valor mb-3">${payload.testResult}</div>
